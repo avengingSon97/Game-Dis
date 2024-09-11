@@ -1,5 +1,6 @@
 .quote {
     text-align: center;
+    
 }
 
 star{}
@@ -14,10 +15,13 @@ star{}
 }
 
 
-*{
+/*  the (*) marks that it is valid for the entire file*/
+ *{
     margin: 0;
     padding: 0;
+    max-width: 100%
 }
+
 .rate {
     float: left;
     height: 46px;
@@ -54,7 +58,10 @@ star{}
     color: #c59b08;
 }
 
-
+.heading1{
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
 
 
 .pad {
@@ -70,5 +77,12 @@ star{}
     padding-top: 40px;
     text-align: right;
 }
+
+.checked{
+    color: orange;
+}
+
+
+   
 
 
