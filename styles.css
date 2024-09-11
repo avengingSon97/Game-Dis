@@ -12,19 +12,18 @@ body {
 }
 .quote {
     background-color: bisque;
+    text-align: center;
 }
 
-.container{
-ul {
+    ul {
     list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: bisque;
-    line-height: 1.5;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: bisque;
+        line-height: 1.5;
+    }
     
-}
-
 li {
     float: left;
 
@@ -42,9 +41,8 @@ li a:hover {
     background-color: #111;
     
 }
-}
 
-.picture {
+
     .quote {
         text-align: center;
     }
@@ -54,9 +52,9 @@ li a:hover {
         font-style: italic;
         padding: 2px;
         text-align: center;
-        display:flexbox;
+
     }
-}
+
 
 footer {
     text-align: right;
