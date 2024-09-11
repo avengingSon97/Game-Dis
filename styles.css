@@ -3,13 +3,21 @@ header {
     text-align: right;
     font-size: 8px;
     padding-bottom: 30px;
+    padding-top: 25px
 
 }
 
 
 body {
     background-color: rgb(196, 218, 210);
+    padding-left: 50px;
+    padding-right: 50px;
+    
 }
+
+
+
+
 .quote {
     background-color: bisque;
     text-align: center;
